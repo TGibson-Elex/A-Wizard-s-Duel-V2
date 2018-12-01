@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: WiiConnectV2, Configuration: Debug Any CPU ------
+1>C:\Users\tyler\source\repos\WiiConnectV2\WiiConnectV2\MainWindow.xaml.cs(82,13,82,20): warning CS0162: Unreachable code detected
+1>C:\Users\tyler\source\repos\WiiConnectV2\WiiConnectV2\MainWindow.xaml.cs(82,13,82,20): warning CS0162: Unreachable code detected
+1>  WiiConnectV2 -> C:\Users\tyler\source\repos\WiiConnectV2\WiiConnectV2\bin\Debug\WiiConnectV2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
